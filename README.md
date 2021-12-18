@@ -1,5 +1,6 @@
 # CS-201-APTs
 
+This repo holds Java solutions employing Sets, Maps, Linked Lists, Comparators, Trees, Graphs, BFS/DFS, and more to solve the problems from my Data Structures and Algorithms course.
 
 | Problem Set | Topic |
 | ------------- | --:|
